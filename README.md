@@ -1,4 +1,4 @@
-# Bibliographic Reference Analysis for a Philosophy Journal.
+# Bibliographic Reference Analysis for a Philosophy Journal
 
 In this project, I explore the versatile [bib2df](https://cran.r-project.org/web/packages/bib2df/vignettes/bib2df.html) package to analyze bibliographic references for a philosophy journal.
 
